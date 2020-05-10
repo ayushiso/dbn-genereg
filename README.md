@@ -1,2 +1,2 @@
 # dbn-genereg
-Inference of gene regulatory relationships using Dynamic Bayes Networks
+Modelling gene regulatory networks through time with single cell data
